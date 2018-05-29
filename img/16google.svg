@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_google</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Visual-Design_1440" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Personal_Settings_1440" transform="translate(-621.000000, -1222.000000)">
+            <g id="Content" transform="translate(544.000000, 128.000000)">
+                <g id="Fileds" transform="translate(0.000000, 184.000000)">
+                    <g id="Social-Links" transform="translate(0.000000, 742.000000)">
+                        <g id="Google+" transform="translate(0.000000, 152.000000)">
+                            <g id="Group-3" transform="translate(77.000000, 11.000000)">
+                                <g id="ic_google" transform="translate(0.000000, 5.000000)">
+                                    <rect id="Rectangle-11" x="0" y="0" width="16" height="16"></rect>
+                                    <rect id="Rectangle-path" x="0" y="0" width="16" height="16"></rect>
+                                    <path d="M3.448125,8 C3.448125,7.480375 3.534375,6.982125 3.6885,6.514875 L0.99225,4.456 C0.46675,5.522875 0.17075,6.725125 0.17075,8 C0.17075,9.273875 0.4665,10.47525 0.991125,11.5415 L3.685875,9.478625 C3.53325,9.0135 3.448125,8.517125 3.448125,8" id="Shape" fill="#FBBC05"></path>
+                                    <path d="M8.182125,3.27275 C9.311,3.27275 10.330625,3.67275 11.13175,4.32725 L13.46225,2 C12.042125,0.763625 10.221375,0 8.182125,0 C5.016125,0 2.295125,1.8105 0.99225,4.456 L3.688375,6.514875 C4.309625,4.629125 6.0805,3.27275 8.182125,3.27275" id="Shape" fill="#EA4335"></path>
+                                    <path d="M8.182125,12.72725 C6.080625,12.72725 4.30975,11.370875 3.6885,9.485125 L0.99225,11.543625 C2.295125,14.1895 5.016125,16 8.182125,16 C10.136125,16 12.00175,15.306125 13.401875,14.006125 L10.842625,12.027625 C10.1205,12.4825 9.211125,12.72725 8.182125,12.72725" id="Shape" fill="#34A853"></path>
+                                    <path d="M15.82925,8 C15.82925,7.52725 15.756375,7.018125 15.647125,6.5455 L8.182125,6.5455 L8.182125,9.636375 L12.479125,9.636375 C12.26425,10.69025 11.6795,11.500375 10.842625,12.027625 L13.401875,14.006125 C14.872625,12.641125 15.82925,10.607625 15.82925,8" id="Shape" fill="#4285F4"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

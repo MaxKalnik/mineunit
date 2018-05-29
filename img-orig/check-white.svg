@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="9px" viewBox="0 0 12 9" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Register_1440" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-434.000000, -1010.000000)">
+        <g id="Content_Area" transform="translate(380.000000, 262.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="2-Step-Authentication" transform="translate(48.000000, 740.000000)">
+                <g id="Checkbox">
+                    <path d="M16.0112781,8.34984979 L10.3882326,14.1158201 L7.9887413,11.6552034 C7.53375911,11.1887901 6.7960635,11.1887901 6.34123664,11.6552034 C5.88625445,12.1219353 5.88625445,12.8782639 6.34123664,13.3448364 L9.56448024,16.65019 C9.79189367,16.8833967 10.0901408,17 10.3882326,17 C10.6863244,17 10.9845715,16.8833967 11.2119849,16.65019 L17.6586274,10.0394828 C18.113765,9.57291027 18.113765,8.81642235 17.6587828,8.35000908 C17.2039559,7.88343652 16.4662603,7.88327722 16.0112781,8.34984979 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

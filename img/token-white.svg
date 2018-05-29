@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_token</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Visual-Design_1440" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="My_Mineunit_1440" transform="translate(-338.000000, -412.000000)" fill="#FFFFFF">
+            <g id="Sidebar" transform="translate(160.000000, 128.000000)">
+                <g id="Perosnal-Profile">
+                    <g id="data" transform="translate(0.000000, 24.000000)">
+                        <g id="Price" transform="translate(24.000000, 248.000000)">
+                            <g id="icon_token" transform="translate(154.000000, 12.000000)">
+                                <path d="M12,0 C5.3835,0 0,5.3835 0,12 C0,18.6165 5.3835,24 12,24 C18.6165,24 24,18.6165 24,12 C24,5.3835 18.6165,0 12,0 Z M12,22.5 C6.21,22.5 1.5,17.79 1.5,12 C1.5,6.21 6.21,1.5 12,1.5 C17.79,1.5 22.5,6.21 22.5,12 C22.5,17.79 17.79,22.5 12,22.5 Z" id="Shape" fill-rule="nonzero"></path>
+                                <path d="M19.54425,7.08975 L18.28725,7.90875 C19.08,9.126 19.5,10.5405 19.5,12 C19.5,16.1355 16.1355,19.5 12,19.5 C10.2615,19.5 8.5665,18.891 7.22775,17.78625 L6.273,18.94275 C7.8795,20.2695 9.9135,21 12,21 C16.96275,21 21,16.96275 21,12 C21,10.24875 20.496,8.55075 19.54425,7.08975 Z" id="Shape" fill-rule="nonzero"></path>
+                                <path d="M12,4.5 C13.74,4.5 15.43575,5.109 16.7745,6.216 L17.72925,5.0595 C16.12275,3.73125 14.088,3 12,3 C7.03725,3 3,7.03725 3,12 C3,13.866 3.56625,15.65625 4.638,17.17725 L5.86425,16.31325 C4.97175,15.0465 4.5,13.5555 4.5,12 C4.5,7.8645 7.8645,4.5 12,4.5 Z" id="Shape" fill-rule="nonzero"></path>
+                                <path d="M11.252,16 L9.548,16 L9.548,7.996 L13.292,7.996 C15.032,7.996 15.98,9.172 15.98,10.576 C15.98,11.968 15.02,13.156 13.292,13.156 L11.252,13.156 L11.252,16 Z M13.064,11.656 C13.736,11.656 14.24,11.236 14.24,10.576 C14.24,9.904 13.736,9.496 13.064,9.496 L11.252,9.496 L11.252,11.656 L13.064,11.656 Z" id="P"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
