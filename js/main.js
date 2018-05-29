@@ -61,14 +61,14 @@ $(document).ready(function () {
 		mainClass: 'mfp-fade mfp-leave'
 	});
 
-	$('.quotes-slider').slick({
-		infinite: true,
-		dots: true,
-		slidesToShow: 1,
-		slidesToScroll: 1,
-		adaptiveHeight: true
-	});
-	scrollToBlock();
+	// $('.quotes-slider').slick({
+	// 	infinite: true,
+	// 	dots: true,
+	// 	slidesToShow: 1,
+	// 	slidesToScroll: 1,
+	// 	adaptiveHeight: true
+	// });
+	// scrollToBlock();
 });
 
 $(window).on('load', function () {
