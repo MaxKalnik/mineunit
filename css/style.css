@@ -3927,9 +3927,7 @@ button.mfp-close:hover {
 .what-new2 h2 img {
 	height: 1em;
 	vertical-align: top;
-	width: auto;
-	position: relative;
-}
+	width: auto}
 .what-new2 h2:first-child {
 	margin-top: 0!important;
 }
@@ -3940,7 +3938,6 @@ button.mfp-close:hover {
 	box-shadow: 0 12px 32px 0 rgba(36,60,71,0.20);
 	margin: 0 auto;
 	max-width: 940px;
-	background: url(../img/what-video.png) no-repeat 50% 50%;
 	background-size: cover;
 	border: 0;
 }
