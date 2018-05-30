@@ -3924,6 +3924,10 @@ button.mfp-close:hover {
 	text-align: center;
 	margin: 87px 0 30px 0;
 }
+.user_page.what-new2 h2 {
+	text-align: left;
+}
+
 .what-new2 h2 img {
 	height: 1em;
 	vertical-align: top;
@@ -3947,6 +3951,38 @@ button.mfp-close:hover {
 	padding-top: 57.44%;
 }
 .what-new2 .link-video:after {
+	content: '';
+	width: 64px;
+	height: 64px;
+	border-radius: 50%;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin: -42px;
+	background-image: url(../img/play.svg), -webkit-linear-gradient(left, #43359B 0%, #2C3771 100%);
+	background-image: url(../img/play.svg), linear-gradient(to right, #43359B 0%, #2C3771 100%);
+	background-repeat: no-repeat;
+	background-position: 52% 50%;
+	background-size: auto 16px, auto;
+}
+
+.user_page .link-video {
+	display: block;
+	position: relative;
+	border-radius: 6px;
+	box-shadow: 0 12px 32px 0 rgba(36,60,71,0.20);
+	margin: 0 auto;
+	max-width: 940px;
+	background-size: cover;
+	border: 0;
+}
+
+.user_page .link-video:before {
+	content: '';
+	display: block;
+	padding-top: 57.44%;
+}
+.user_page .link-video:after {
 	content: '';
 	width: 64px;
 	height: 64px;
